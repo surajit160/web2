@@ -27,9 +27,9 @@ header {
 }
 
 .navbar ul li a {
-    color: red;
+    color: black;
     text-decoration-line:underline;
-    text-decoration-style: wavy;
+    
 }
 
 #profile {
